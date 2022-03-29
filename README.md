@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slooops
 - 👀 I’m interested in ai
-- 🌱 I’m currently learning basic CS
+- 🌱 I’m currently studying CS
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: jaxks.co
 
