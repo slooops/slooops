@@ -2,7 +2,7 @@
 
 Front-end engineer. Design systems nerd.  San Franciscan. Currently building Angular dashboards and UI component libraries at Cisco. Former data engineer at Neo4j London, where I accidentally got 3 million TikTok views explaining graph theory. Whoops.
 
-I build sleek, accessible user interfaces that make devs and designers breathe easier. If you're into scalable components, clean layouts, and some spicy Tailwind, we’re gonna get along.
+<!-- I build sleek, accessible user interfaces that make devs and designers breathe easier. If you're into scalable components, clean layouts, and some spicy Tailwind, we’re gonna get along.
 
 ## 🛠 What I Actually Do
 
@@ -10,12 +10,12 @@ I build sleek, accessible user interfaces that make devs and designers breathe e
 - Refactor confusing front-end messes into clean, scalable systems
 - Design beautiful, responsive UIs (bonus points if I get to delete CSS)
 - Translate Figma into real life with pixel-perfect execution
-- Tell the difference between a good tooltip and a war crime
+- Tell the difference between a good tooltip and a war crime -->
 
 ## 🧪 Stuff I’ve Built Lately
 
 - 📚 [Storybook Component Library](https://slooops.github.io/asdf/storybook-static/)  
-  20+ custom components. Cards. Dropdowns. Modals. Tables. You name it.
+  20+ custom components. Cards. Dropdowns. Modals. Tables. Can tell the difference between a good tooltip and a war crime.
 
 - ⚙️ Internal Dashboards @ Cisco  
   Built Angular dashboards that connect to secure Oracle DBs, upgraded the app several Angular version numbers, run regression models, and don’t crash (usually).
