@@ -18,7 +18,7 @@ Front-end engineer. Design systems nerd.  San Franciscan. Currently building Ang
   20+ custom components. Cards. Dropdowns. Modals. Tables. Can tell the difference between a good tooltip and a war crime.
 
 - ⚙️ Internal Dashboards @ Cisco  
-  Built Angular dashboards that connect to secure Oracle DBs, upgraded the app several Angular version numbers, run regression models, and don’t crash (usually).
+  Built Angular dashboards that connect to secure Oracle DBs, upgraded the app several Angular version numbers, run regression models, that don’t crash (usually).
 
 - ✨ UI Redesign  
   Replaced an ancient UI with something that doesn’t make your eyes bleed. Bonus: removed security vulnerabilities along the way.
