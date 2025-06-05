@@ -31,7 +31,7 @@ Front-end engineer. Design systems nerd.  San Franciscan. Currently building Ang
 **Cisco Systems** – _San Francisco, California_ – **Software Engineer**  
 Building predictive dashboards, secure DB pipelines, and a design system library from scratch.
 
-**Neo4j** – _London GB & Malmö SE_ – **Data Engineer Intern**  
+**Neo4j** – _London, England & Malmö, Sweden_ – **Data Engineer Intern**  
 React UI work, enterprise dev practices, and a few viral TikToks about planar graphs.
 
 ## 🧠 Skills
