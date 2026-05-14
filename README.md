@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Jack.
 
-Front-end engineer. Design systems nerd.  San Franciscan. Currently building Angular dashboards and UI component libraries at Cisco. Former data engineer at Neo4j London, where I accidentally got 3 million TikTok views explaining graph theory. Whoops.
+Front-end engineer. Design systems nerd.  San Franciscan. Currently building Angular dashboards and UI component libraries at Cisco. Former data engineer at Neo4j London, where I accidentally got 5 million TikTok views explaining graph theory. Not sure how that happened.
 
 <!-- I build sleek, accessible user interfaces that make devs and designers breathe easier. If you're into scalable components, clean layouts, and some spicy Tailwind, we’re gonna get along.
 
@@ -12,19 +12,26 @@ Front-end engineer. Design systems nerd.  San Franciscan. Currently building Ang
 - Translate Figma into real life with pixel-perfect execution
 - Tell the difference between a good tooltip and a war crime -->
 
-## 🧪 Stuff I’ve Built Lately
+## 🧪 Stuff I've Built Lately
 
 - 📚 [Storybook Component Library](https://slooops.github.io/asdf/storybook-static/)  
   20+ custom components. Cards. Dropdowns. Modals. Tables. Can tell the difference between a good tooltip and a war crime.
 
 - ⚙️ Internal Dashboards @ Cisco  
-  Built Angular dashboards that connect to secure Oracle DBs, upgraded the app several Angular version numbers, run regression models, that don’t crash (usually).
+  Angular dashboards backed by secure Oracle DBs and predictive models. Several major Angular upgrades, regression pipelines, and a UI that doesn't crash (usually).
 
-- ✨ UI Redesign  
-  Replaced an ancient UI with something that doesn’t make your eyes bleed. Bonus: removed security vulnerabilities along the way.
+- 🚩 [The Kenny Test](https://silly-sandbox.vercel.app/)  
+  A satirical 103-question quiz based on a real list of "red flags" a man named Kenny made. React, Vite, Supabase, and the Giphy API. The friend group scored ourselves. It's unhinged.
 
-- 🤓 [Wordle clone](https://wordle.jaxks.co)  
-  Because I’m fun like that.
+- 💰 [Daily Dough](https://github.com/slooops/Daily-Dough)  
+  A personal finance app that tells you how much you can spend *right now*. Plaid-powered, real-time daily allowance. No spreadsheets, no budgeting apps, just a number.
+
+- 🌙 [Moonbeam](https://github.com/slooops/Moonbeam)  
+  A REM sleep calculator in Swift because every sleep app wants a subscription and I just want to multiply 1.5 hours by a number.
+
+- 🤓 [Wordle Clone](https://wordle.jaxks.co)  
+  Because I'm fun like that.
+
 
 ## 💼 Experience
 
@@ -36,9 +43,9 @@ React UI work, enterprise dev practices, and a few viral TikToks about planar gr
 
 ## 🧠 Skills
 
-**Languages:** TypeScript, JavaScript, HTML, CSS, Java  
-**Frameworks:** Angular, React, Tailwind CSS  
-**Tools:** Storybook, Git, Chart.js, NX, Cypress, Figma  
+**Languages:** TypeScript, HTML, CSS, Swift, Python, Java  
+**Frameworks:** Angular, React, Next.js, Tailwind CSS  
+**Tools:** Storybook, Git, Chart.js, Supabase, NX, Cypress, Figma, AWS AppRunner, GH Actions  
 **Practices:** Design Systems, Component Libraries, Agile, CI/CD
 
 ## 📫 Find Me
@@ -51,7 +58,7 @@ React UI work, enterprise dev practices, and a few viral TikToks about planar gr
 
 ---
 
-Thanks for stopping by. I’m probably making another modal right now 😭.
+Thanks for stopping by. I'm probably writing another quiz question right now 🚩
 
 
 
