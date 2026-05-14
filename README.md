@@ -4,21 +4,16 @@ Front-end engineer. Design systems nerd.  San Franciscan. Currently building Ang
 
 <!-- I build sleek, accessible user interfaces that make devs and designers breathe easier. If you're into scalable components, clean layouts, and some spicy Tailwind, we’re gonna get along.
 
-## 🛠 What I Actually Do
-
-- Build reusable UI components in **Angular**, **React**, and **Storybook**
-- Refactor confusing front-end messes into clean, scalable systems
-- Design beautiful, responsive UIs (bonus points if I get to delete CSS)
-- Translate Figma into real life with pixel-perfect execution
-- Tell the difference between a good tooltip and a war crime -->
-
 ## 🧪 Stuff I've Built Lately
+
+- ⚙️ Internal Tooling @ Cisco  
+  Angular dashboards backed by secure Oracle DBs and predictive models. Several major Angular upgrades, regression pipelines, and a UI that doesn't crash (usually).
 
 - 📚 [Storybook Component Library](https://slooops.github.io/asdf/storybook-static/)  
   20+ custom components. Cards. Dropdowns. Modals. Tables. Can tell the difference between a good tooltip and a war crime.
 
-- ⚙️ Internal Dashboards @ Cisco  
-  Angular dashboards backed by secure Oracle DBs and predictive models. Several major Angular upgrades, regression pipelines, and a UI that doesn't crash (usually).
+- 🚇 [*Community Magazine*](https://community-zine.vercel.app/)  
+  A full-stack magazine app for a zine about Muni Metro, SF transit, and beyond. Because every city deserves a publication that isn't a subreddit.
 
 - 🚩 [The Kenny Test](https://silly-sandbox.vercel.app/)  
   A satirical 103-question quiz based on a real list of "red flags" a man named Kenny made. React, Vite, Supabase, and the Giphy API. The friend group scored ourselves. It's unhinged.
