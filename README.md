@@ -2,8 +2,6 @@
 
 Front-end engineer. Design systems nerd.  San Franciscan. Currently building Angular dashboards and UI component libraries at Cisco. Former data engineer at Neo4j London, where I accidentally got 5 million TikTok views explaining graph theory. Not sure how that happened.
 
-<!-- I build sleek, accessible user interfaces that make devs and designers breathe easier. If you're into scalable components, clean layouts, and some spicy Tailwind, we’re gonna get along.
-
 ## 🧪 Stuff I've Built Lately
 
 - ⚙️ Internal Tooling @ Cisco  
