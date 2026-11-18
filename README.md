@@ -4,6 +4,12 @@ Front-end engineer. Design systems nerd.  San Franciscan. Currently building Ang
 
 ## 🧪 Stuff I've Built Lately
 
+- 🕹️ [Subnet](https://apps.apple.com/us/app/sub-net/id6823783183)  
+  A real-time node-conquest game for iPhone and iPad, out now on the App Store. Push load across a hex or circuit-board grid and take the whole subnet before the red daemon does. No ads, no tracking, fully offline.
+
+- 🪐 [Orrery](https://slooops.com/orrery/)  
+  Horoscopes are deterministic: a birth date, time and place go in, planet positions come out, and lookup tables turn them into sentences. So you can calculate every horoscope ever. This is that machine with the cover off.
+
 - ⚙️ Internal Tooling @ Cisco  
   Angular dashboards backed by secure Oracle DBs and predictive models. Several major Angular upgrades, regression pipelines, and a UI that doesn't crash (usually).
 
@@ -13,14 +19,11 @@ Front-end engineer. Design systems nerd.  San Franciscan. Currently building Ang
 - 🚇 [*Community Magazine*](https://community-zine.vercel.app/)  
   A full-stack magazine app for a zine about Muni Metro, SF transit, and beyond. Because every city deserves a publication that isn't a subreddit.
 
-- 🚩 [The Kenny Test](https://silly-sandbox.vercel.app/)  
-  A satirical 103-question quiz based on a real list of "red flags" a man named Kenny made. React, Vite, Supabase, and the Giphy API. The friend group scored ourselves. It's unhinged.
-
 - 💰 [Daily Dough](https://github.com/slooops/Daily-Dough)  
   A personal finance app that tells you how much you can spend *right now*. Plaid-powered, real-time daily allowance. No spreadsheets, no budgeting apps, just a number.
 
-- 🌙 [Moonbeam](https://github.com/slooops/Moonbeam)  
-  A REM sleep calculator in Swift because every sleep app wants a subscription and I just want to multiply 1.5 hours by a number.
+- 🌙 [Moonbeam](https://slooops.com/moonbeam/)  
+  A REM sleep calculator in Swift because every sleep app wants a subscription and I just want to multiply 1.5 hours by a number. Coming next to the App Store.
 
 - 🤓 [Wordle Clone](https://wordle.jaxks.co)  
   Because I'm fun like that.
@@ -43,7 +46,8 @@ React UI work, enterprise dev practices, and a few viral TikToks about planar gr
 
 ## 📫 Find Me
 
-- 📟 [Portfolio](https://slooops.github.io)
+- 📟 [Portfolio](https://slooops.com)
+- 📱 [My Apps](https://apps.apple.com/us/developer/jacob-sloop/id6823783185)
 - 🎨 [Design Stuff](https://jaxks.co)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jack-sloop/)
 - ✉️ [Email](mailto:jacobsloop@gmail.com)
@@ -51,7 +55,7 @@ React UI work, enterprise dev practices, and a few viral TikToks about planar gr
 
 ---
 
-Thanks for stopping by. I'm probably writing another quiz question right now 🚩
+Thanks for stopping by. I'm probably shipping another tiny app right now 📱
 
 
 
